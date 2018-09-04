@@ -1,0 +1,14 @@
+baseURL = "https://riscvforum.ir/blog"
+defaultContentLanguage = "fa"
+languageCode = "fa-ir"
+title = "RISC-V ISA ریسک-فایو"
+theme = "hugo-theme-bootstrap4-blog"
+copyright = "نویسنده [hosenh](https://github.com/hosenh), [GPL-2.0](https://www.gnu.org/licenses/gpl-2.0.html)"
+
+[[menu.navbar]]
+  name = "درباره"
+  url = "about/"
+
+[params]
+
+  header_visible = false
